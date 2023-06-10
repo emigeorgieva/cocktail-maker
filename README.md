@@ -10,10 +10,10 @@
 
 ## Използвани технологии
 
-> Основите на проекта са поставени именно благодарение на [***Arduino***](https://www.arduino.cc/).
-> Използвана е БД - InfluxDB time series database.
-> ESP32
-> Grafana
+> 1. Основите на проекта са поставени именно благодарение на [***Arduino***](https://www.arduino.cc/).
+> 2. Използвана е БД - InfluxDB time series database.
+> 3. ESP32
+> 4. Grafana
 
 
 ## Библиотеки
