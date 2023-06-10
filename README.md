@@ -11,20 +11,20 @@
 ## Използвани технологии
 
 > Основите на проекта са поставени именно благодарение на [***Arduino***](https://www.arduino.cc/).
->
->
->    <img src="DocsImages/arduino_logo.png"/>
+> Използвана е БД - InfluxDB time series database.
+> ESP32
+> Grafana
 
 
 ## Библиотеки
 
 ### **Arduino**
 
-> | **Име на библиотеката**  | **Версия** |
-> | :-------------: |:----------:|
-> | ``InfluxDbClient.h`` | **-** |
-> | ``InfluxDbCloud.h`` | **-** |
-> | ``WiFiMulti.h`` | **-** |
+> | **Име на библиотеката** |
+> | :-------------: |
+> | ``InfluxDbClient.h`` 
+> | ``InfluxDbCloud.h`` 
+> | ``WiFiMulti.h`` 
 
 
 ![b-52](https://user-images.githubusercontent.com/126180854/233782882-9851f4c8-b0ce-44e6-8a41-d3157c78247c.png)
