@@ -14,6 +14,7 @@
 >  DC мотор, посредством който съда е поставен под желаната течност. 
 >  Linear actuator, чрез който се осъществява процеса по сипване на течността. 
 > Моторите биват управлявани с L298N драйвер.
+> 
 > .![Arduino_Logo svg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/52c9eb31-8356-404f-a8d1-421be588c557)
 ### InfluxDB
 > 
