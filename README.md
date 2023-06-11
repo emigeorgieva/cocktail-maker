@@ -9,7 +9,7 @@
 5. Известяване, че напитката е готова.
 
 ## Използвани технологии
-
+### Arduino
 > .![Arduino_Logo svg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/52c9eb31-8356-404f-a8d1-421be588c557)
 > .![Influxdb_logo svg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/d07182a0-9173-487b-96a4-b5c44ff672f7)
 > .![esp32](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/fe9b9561-880e-45a7-8bb3-db07852eca38)
