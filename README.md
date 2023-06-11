@@ -10,9 +10,16 @@
 
 ## Използвани технологии
 ### Arduino
+> Реализирана е механичната част на проекта. Задвижването на два мотора: 1. DC мотор, посредством който съда е поставен под желаната течност. 2. Linear actuator, чрез който се осъществява процеса по сипване на течността. Моторите биват управлявани с L298N драйвер.
 > .![Arduino_Logo svg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/52c9eb31-8356-404f-a8d1-421be588c557)
+### InfluxDB
+> 
 > .![Influxdb_logo svg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/d07182a0-9173-487b-96a4-b5c44ff672f7)
+### ESP32
+> 
 > .![esp32](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/fe9b9561-880e-45a7-8bb3-db07852eca38)
+### Grafana
+>
 > .![grafana-lg](https://github.com/emigeorgieva/cocktail-maker/assets/126180854/51bd4882-8324-41fe-a36b-4ab87a34f1fc)
 
 
